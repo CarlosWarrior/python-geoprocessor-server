@@ -1,0 +1,4 @@
+./storage/*.shp
+./storage/*.shx
+./storage/*.dfb
+./storage/*.proj
