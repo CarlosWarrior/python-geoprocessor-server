@@ -1,4 +1,4 @@
-./storage/*.shp
-./storage/*.shx
-./storage/*.dfb
-./storage/*.proj
+storage/*.shp
+storage/*.shx
+storage/*.dfb
+storage/*.proj
